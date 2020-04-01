@@ -1,2 +1,2 @@
 # python
-python practice and projects.
+Life is short. Use python.
